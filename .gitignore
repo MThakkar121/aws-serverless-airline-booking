@@ -315,7 +315,7 @@ amplify/backend/api/*/resolvers
 build/
 dist/
 node_modules/
-
+amplify-export.js
 awsconfiguration.json
 schema.json
 
